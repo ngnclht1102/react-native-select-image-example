@@ -37,11 +37,11 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
   <key>NSCameraUsageDescription</key>
-  <string>Please allow access to photo for get the receipt image</string>
+  <string>Please allow access to photo for get the avatar</string>
   <key>NSLocationWhenInUseUsageDescription</key>
   <string></string>
   <key>NSPhotoLibraryUsageDescription</key>
-  <string>Please allow access to photo for get the receipt image</string>
+  <string>Please allow access to photo for get the avatar</string>
   
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
