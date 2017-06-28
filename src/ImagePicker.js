@@ -68,9 +68,4 @@ class AvatarPicker extends React.Component {
 }
 
 
-AvatarPicker.propTypes = {
-  act: React.PropTypes.object.isRequired,
-  selectedCustomer: React.PropTypes.object,
-}
-
 export default AvatarPicker
